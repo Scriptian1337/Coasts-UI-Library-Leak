@@ -4,7 +4,7 @@ Yes, leaking Coats Hub UI Library, BUT it's obfuscated. Heres the example usage 
 ```lua
 -- // Example Writtin By Me
 ------------------------------------------------------------------------------------------------------------------------------------
-local library = loadstring(game:HttpGet("https://raw.githubusercontent.com/Scriptian1337/Coasts-UI-Library-Leak/main/UILibrary"))()
+local library = loadstring(game:HttpGet("https://raw.githubusercontent.com/Scriptian1337/Coasts-UI-Library-Leak/main/Utilities/UI-Library.lua"))()
 ------------------------------------------------------------------------------------------------------------------------------------
 local Window = library:Window("TITLE", "Game")
 ------------------------------------------------------------------------------------------------------------------------------------
